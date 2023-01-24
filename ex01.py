@@ -19,3 +19,5 @@ print(t1)
 
 t2 = tuple(randint(1,10) for i in range(5)) # gera uma tupla de tamanho 5 com valores aleatórios entre 1 e 10
 print(t2) 
+
+print("fim do programa!")

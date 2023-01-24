@@ -21,3 +21,5 @@ if t1.count(elemento) > 0: # verifica se o elemento está contido na tupla t1
 
 else: # se o elemento não estiver contido na tupla t1 
   print(f"o {elemento} não existe!") # imprime a mensagem se o elemento não estiver contido na tupla t1
+  
+print("fim do programa!")
